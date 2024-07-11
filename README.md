@@ -8,3 +8,4 @@
 - go into the new folder that opens
 - double click "sopresa.exe"
 - SURPRISE!!!
+- (dont forget to delete naile SUS)
